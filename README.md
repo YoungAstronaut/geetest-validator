@@ -5,5 +5,5 @@
 
 ### www
 
-- gitpage访问 https://kuresaru.github.io/geetest-validator/
+- gitpage访问 https://youngastronaut.github.io/geetest-validator/
 - 个人站备用  https://www.scraft.top/gtv/
